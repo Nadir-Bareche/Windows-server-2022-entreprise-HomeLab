@@ -21,7 +21,7 @@ The objective of this HomeLab is to gain practical experience with enterprise Wi
 
 ### Active Directory
 
-![Active Directory](screenshots/01-active-directory-overview.png)
+![Active Directory](screenshots/01-active-directory-users-and-computers-overview.png)
 
 ---
 
