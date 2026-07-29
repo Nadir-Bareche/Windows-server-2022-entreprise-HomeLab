@@ -5,7 +5,8 @@
 ![Windows 11](https://img.shields.io/badge/Windows_11-Pro-0078D4?style=for-the-badge&logo=windows11&logoColor=white)
 
 # Windows Server 2022 Enterprise HomeLab
-# Windows Server 2022 Enterprise HomeLab
+
+![Architecture Diagram](diagrams/architecture-diagram.png)
 
 ## Project Overview
 
