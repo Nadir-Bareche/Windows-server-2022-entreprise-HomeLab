@@ -17,6 +17,36 @@ The objective of this HomeLab is to gain practical experience with enterprise Wi
 
 # Lab Environment
 
+## Screenshots
+
+### Active Directory
+
+![Active Directory](screenshots/01-active-directory-overview.png)
+
+---
+
+### Group Policy
+
+![Group Policy](screenshots/02-group-policy-management.png)
+
+---
+
+### File Server
+
+![File Server](screenshots/03-file-server-shares.png)
+
+---
+
+### Automatic Drive Mapping
+
+![Drive Mapping](screenshots/06-drive-mapping.png)
+
+---
+
+### Validation Test
+
+![Validation](screenshots/07-validation-test-file.png)
+
 ## Virtualization
 
 - VMware Workstation Pro
