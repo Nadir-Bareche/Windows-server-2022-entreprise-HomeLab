@@ -1,3 +1,10 @@
+![Windows Server](https://img.shields.io/badge/Windows_Server-2022-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Active Directory](https://img.shields.io/badge/Active_Directory-Configured-003366?style=for-the-badge)
+![VMware](https://img.shields.io/badge/VMware-Workstation_Pro-607078?style=for-the-badge&logo=vmware&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5.1-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Windows 11](https://img.shields.io/badge/Windows_11-Pro-0078D4?style=for-the-badge&logo=windows11&logoColor=white)
+
+# Windows Server 2022 Enterprise HomeLab
 # Windows Server 2022 Enterprise HomeLab
 
 ## Project Overview
